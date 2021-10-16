@@ -3,9 +3,9 @@ The Odin Project's Ruby capstone project.
 
 ## Assignment
 
-1. Build a command line Chess game where tow players can play against each other.
+1. Build a command line Chess game where two players can play against each other.
 
-2. The game should be properly constrained - it should prevent players from makign illegal moves and declare check or check mate in the correct situations.
+2. The game should be properly constrained - it should prevent players from making illegal moves and declare check or check mate in the correct situations.
 
 3. Make it so you can save the board at any time (remember how to serialize?)
 
